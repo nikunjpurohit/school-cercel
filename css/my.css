@@ -1,0 +1,6 @@
+/* Apply this CSS to your thumbnail images */
+.thumbnail img {
+    width: 100px; /* Adjust the width as needed */
+    height: 100px; /* Adjust the height as needed */
+    object-fit: cover; /* Maintain aspect ratio and fill the container */
+}
