@@ -328,7 +328,8 @@ img#site-title {
 }
 .grid figcaption {
 	background:#333;
-	padding: 25px;
+	padding: 5px;
+	padding-left: 10px;
 }
 /* Slideshow style */
 .slideshow {
