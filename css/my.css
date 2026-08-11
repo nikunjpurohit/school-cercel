@@ -26,6 +26,13 @@ padding: 0px;
     
 }
 
+/* Hides the menu on screens 768px wide or smaller (typical mobile breakpoint) */
+@media (max-width: 768px) {
+  .menu {
+    display: none;
+  }
+}
+
 
 
 @media only screen and (max-width: 600px) {
