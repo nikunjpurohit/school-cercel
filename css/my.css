@@ -28,7 +28,7 @@ padding: 0px;
 
 /* Hides the menu on screens 768px wide or smaller (typical mobile breakpoint) */
 @media (max-width: 768px) {
-  .menu {
+  .menu .navbar-wrapper {
      display: none !important;
   }
 }
